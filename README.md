@@ -3,6 +3,10 @@
 
 This program visualizes the distribution of gender (male, female) among different ages and the number of patients in a sleep disorder dataset. It involves data handling using Pandas and visualization using Matplotlib.
 
+## Dataset
+
+The dataset for this project is available on Kaggle and can be accessed [here](https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset).
+
 ## Steps
 
 1. **Data Import:** The sleep disorder dataset is imported and loaded into a Pandas DataFrame.
